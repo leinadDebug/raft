@@ -4,7 +4,7 @@ const NavBar = () => {
   const [navbar, setNavbar] = useState(false);
 
   return (
-    <div className="flex justify-between items-start  md:gap-10 md:items-center py-10 px-5 md:mx-10 lg:mx-20 mx-10 bg-black rounded">
+    <div className="flex justify-between items-start  md:gap-10 md:items-center py-10 px-5 md:mx-10 lg:mx-20 mx-6 bg-black rounded">
       <div className=" flex justify-start w-40 ">
         
         <h2 className=" text-3xl  text-white">Raft</h2>
