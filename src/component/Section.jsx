@@ -7,8 +7,8 @@ function Section() {
   return (
     <div className="flex lg:flex-row flex-col gap-8 ">
       <Seamlesspayments />
-          <SmallInvesting />
-          <Wealth/>
+      <SmallInvesting />
+      <Wealth />
     </div>
   );
 }
