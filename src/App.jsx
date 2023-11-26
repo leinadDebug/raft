@@ -2,6 +2,7 @@ import './App.css'
 import Confidently from './component/Confidently'
 import FAQ from './component/FAQ'
 import Financial from './component/Financial'
+import Footer from './component/Footer'
 import GenCards from './component/GenCards'
 import Section from './component/Section'
 import Stats from './component/Stats'
@@ -21,6 +22,7 @@ function App() {
       <Stats/>
       <GenCards/>
       <FAQ/>
+      <Footer/>
     </div>
   );
 }
